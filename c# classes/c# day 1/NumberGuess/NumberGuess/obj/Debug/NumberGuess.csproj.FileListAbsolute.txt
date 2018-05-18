@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.config
+C:\Users\student\Desktop\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Users\student\Desktop\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Users\student\Desktop\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Users\student\Desktop\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+C:\Users\student\Desktop\c# day 1\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.config
+C:\Users\student\Desktop\c# day 1\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Users\student\Desktop\c# day 1\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb

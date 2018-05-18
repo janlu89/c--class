@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\ListOfBooks\ListOfBooks\bin\Debug\ListOfBooks.exe.config
+C:\Users\student\Desktop\ListOfBooks\ListOfBooks\bin\Debug\ListOfBooks.exe
+C:\Users\student\Desktop\ListOfBooks\ListOfBooks\bin\Debug\ListOfBooks.pdb
+C:\Users\student\Desktop\ListOfBooks\ListOfBooks\obj\Debug\ListOfBooks.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ListOfBooks\ListOfBooks\obj\Debug\ListOfBooks.exe
+C:\Users\student\Desktop\ListOfBooks\ListOfBooks\obj\Debug\ListOfBooks.pdb

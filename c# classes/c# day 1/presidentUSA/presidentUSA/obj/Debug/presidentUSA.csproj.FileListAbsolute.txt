@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\presidentUSA\presidentUSA\bin\Debug\presidentUSA.exe.config
+C:\Users\student\Desktop\presidentUSA\presidentUSA\bin\Debug\presidentUSA.exe
+C:\Users\student\Desktop\presidentUSA\presidentUSA\bin\Debug\presidentUSA.pdb
+C:\Users\student\Desktop\presidentUSA\presidentUSA\obj\Debug\presidentUSA.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\presidentUSA\presidentUSA\obj\Debug\presidentUSA.exe
+C:\Users\student\Desktop\presidentUSA\presidentUSA\obj\Debug\presidentUSA.pdb

@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\riddles\riddles\bin\Debug\riddles.exe.config
+C:\Users\student\Desktop\riddles\riddles\bin\Debug\riddles.exe
+C:\Users\student\Desktop\riddles\riddles\bin\Debug\riddles.pdb
+C:\Users\student\Desktop\riddles\riddles\obj\Debug\riddles.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\riddles\riddles\obj\Debug\riddles.exe
+C:\Users\student\Desktop\riddles\riddles\obj\Debug\riddles.pdb
+C:\Users\student\Desktop\Gianluca folder\c# classes\c# day 1\riddles\riddles\bin\Debug\riddles.exe.config
+C:\Users\student\Desktop\Gianluca folder\c# classes\c# day 1\riddles\riddles\obj\Debug\riddles.exe
+C:\Users\student\Desktop\Gianluca folder\c# classes\c# day 1\riddles\riddles\obj\Debug\riddles.pdb
+C:\Users\student\Desktop\Gianluca folder\c# classes\c# day 1\riddles\riddles\bin\Debug\riddles.exe
+C:\Users\student\Desktop\Gianluca folder\c# classes\c# day 1\riddles\riddles\bin\Debug\riddles.pdb
+C:\Users\student\Desktop\Gianluca folder\c# classes\c# day 1\riddles\riddles\obj\Debug\riddles.csprojResolveAssemblyReference.cache

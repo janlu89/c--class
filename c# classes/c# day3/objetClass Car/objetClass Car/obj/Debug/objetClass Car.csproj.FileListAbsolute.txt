@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\objetClass Car\objetClass Car\bin\Debug\objetClass Car.exe.config
+C:\Users\student\Desktop\objetClass Car\objetClass Car\bin\Debug\objetClass Car.exe
+C:\Users\student\Desktop\objetClass Car\objetClass Car\bin\Debug\objetClass Car.pdb
+C:\Users\student\Desktop\objetClass Car\objetClass Car\obj\Debug\objetClass Car.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\objetClass Car\objetClass Car\obj\Debug\objetClass Car.exe
+C:\Users\student\Desktop\objetClass Car\objetClass Car\obj\Debug\objetClass Car.pdb

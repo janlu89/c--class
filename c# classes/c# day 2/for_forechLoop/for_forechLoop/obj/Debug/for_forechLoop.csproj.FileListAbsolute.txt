@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\for_forechLoop\for_forechLoop\bin\Debug\for_forechLoop.exe.config
+C:\Users\student\Desktop\for_forechLoop\for_forechLoop\bin\Debug\for_forechLoop.exe
+C:\Users\student\Desktop\for_forechLoop\for_forechLoop\bin\Debug\for_forechLoop.pdb
+C:\Users\student\Desktop\for_forechLoop\for_forechLoop\obj\Debug\for_forechLoop.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\for_forechLoop\for_forechLoop\obj\Debug\for_forechLoop.exe
+C:\Users\student\Desktop\for_forechLoop\for_forechLoop\obj\Debug\for_forechLoop.pdb

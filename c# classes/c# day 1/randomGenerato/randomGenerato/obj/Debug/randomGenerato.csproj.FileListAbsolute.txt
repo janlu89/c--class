@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\c# day 1\randomGenerato\randomGenerato\bin\Debug\randomGenerato.exe.config
+C:\Users\student\Desktop\c# day 1\randomGenerato\randomGenerato\bin\Debug\randomGenerato.exe
+C:\Users\student\Desktop\c# day 1\randomGenerato\randomGenerato\bin\Debug\randomGenerato.pdb
+C:\Users\student\Desktop\c# day 1\randomGenerato\randomGenerato\obj\Debug\randomGenerato.exe
+C:\Users\student\Desktop\c# day 1\randomGenerato\randomGenerato\obj\Debug\randomGenerato.pdb

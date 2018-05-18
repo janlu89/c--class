@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\clacolator\clacolator\bin\Debug\clacolator.exe.config
+C:\Users\student\Desktop\clacolator\clacolator\obj\Debug\clacolator.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\clacolator\clacolator\bin\Debug\clacolator.exe
+C:\Users\student\Desktop\clacolator\clacolator\bin\Debug\clacolator.pdb
+C:\Users\student\Desktop\clacolator\clacolator\obj\Debug\clacolator.exe
+C:\Users\student\Desktop\clacolator\clacolator\obj\Debug\clacolator.pdb

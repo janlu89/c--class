@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\quizP\quizP\bin\Debug\quizP.exe.config
+C:\Users\student\Desktop\quizP\quizP\bin\Debug\quizP.exe
+C:\Users\student\Desktop\quizP\quizP\bin\Debug\quizP.pdb
+C:\Users\student\Desktop\quizP\quizP\obj\Debug\quizP.exe
+C:\Users\student\Desktop\quizP\quizP\obj\Debug\quizP.pdb

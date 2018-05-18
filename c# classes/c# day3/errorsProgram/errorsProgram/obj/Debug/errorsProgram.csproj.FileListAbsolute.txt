@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\errorsProgram\errorsProgram\bin\Debug\errorsProgram.exe.config
+C:\Users\student\Desktop\errorsProgram\errorsProgram\bin\Debug\errorsProgram.exe
+C:\Users\student\Desktop\errorsProgram\errorsProgram\bin\Debug\errorsProgram.pdb
+C:\Users\student\Desktop\errorsProgram\errorsProgram\obj\Debug\errorsProgram.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\errorsProgram\errorsProgram\obj\Debug\errorsProgram.exe
+C:\Users\student\Desktop\errorsProgram\errorsProgram\obj\Debug\errorsProgram.pdb

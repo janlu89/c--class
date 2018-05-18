@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\errorArray\errorArray\bin\Debug\errorArray.exe.config
+C:\Users\student\Desktop\errorArray\errorArray\bin\Debug\errorArray.exe
+C:\Users\student\Desktop\errorArray\errorArray\bin\Debug\errorArray.pdb
+C:\Users\student\Desktop\errorArray\errorArray\obj\Debug\errorArray.exe
+C:\Users\student\Desktop\errorArray\errorArray\obj\Debug\errorArray.pdb
+C:\Users\student\Desktop\errorArray\errorArray\obj\Debug\errorArray.csprojResolveAssemblyReference.cache

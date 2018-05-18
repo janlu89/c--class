@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\avarageCalculator\avarageCalculator\bin\Debug\avarageCalculator.exe.config
+C:\Users\student\Desktop\avarageCalculator\avarageCalculator\bin\Debug\avarageCalculator.exe
+C:\Users\student\Desktop\avarageCalculator\avarageCalculator\bin\Debug\avarageCalculator.pdb
+C:\Users\student\Desktop\avarageCalculator\avarageCalculator\obj\Debug\avarageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\avarageCalculator\avarageCalculator\obj\Debug\avarageCalculator.exe
+C:\Users\student\Desktop\avarageCalculator\avarageCalculator\obj\Debug\avarageCalculator.pdb
